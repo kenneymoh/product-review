@@ -7,3 +7,4 @@ class CreateReviews < ActiveRecord::Migration[7.0]
       t.integer :user_id
   end
 end
+end
