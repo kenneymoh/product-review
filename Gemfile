@@ -14,6 +14,8 @@ gem "require_all"
 
 gem "puma"
 
+gem "faker"
+
 group :development do
     gem "pry"
   end
